@@ -1,0 +1,10 @@
+@media all and (max-width:480px){
+    .bs-color{
+        width: 100%;
+    }
+}
+@media all and (max-width:768px){
+    .bs-color{
+        float: right;
+    }
+}
